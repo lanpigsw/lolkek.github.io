@@ -1,1 +1,1 @@
-#My syte: lolkek.github.io
+#My site: lolkek.github.io
